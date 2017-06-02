@@ -1,0 +1,27 @@
+
+ZAGG - VERSION 0.6
+
+CHANGES IMPLEMENTED FROM PREVIOUS VERSION:
+
+• Created New Calculation Script for Full-Time Result Using Dummy Data
+  - Results Are Shown on First li Tag Home Page
+• Changes To Layout of Each li Tag
+  - Stake Section
+  - Odds Offered (Price Example Excluded)
+• Changed Font Sizes for Width < 500
+• Home Page CSS Changed
+  - Border Changed in Mobile View
+• Fixed Scrolling Issue Found on Mobile and Tablets
+• Fixed Mobile Menu Button From Scrolling With Page
+• Fixed Issue in Help Page and Scaled Image
+• Fixed Sticky Scrolling
+• Added Apple Touch Icon for Home Screen on Mobile Devices
+• Fixed Spelling Issue "Recieved" to Received
+• Changed Mobile Navigation Function Name
+
+ERRORS:
+
+• Issues With Mobile Browser's Functions
+  - Function to go straight to the top.
+  - Collapsing top and bottom bar on smartphone's browsers when
+    scrolling.

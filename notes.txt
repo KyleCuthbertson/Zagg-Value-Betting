@@ -1,0 +1,73 @@
+
+Technologies used:
+  • HTML/HTML5
+  • CSS/CSS3 & SASS
+  • JavaScript & Node.js
+
+
+Meeting with Ann Plummer & Alex Bennett before official demo
+
+Generic Improvements & Future Features:
+  • Increase Branding - Logo
+  • Add some of the smaller and quicker features to add value to the system
+  • Home screen to feature most popular or highest value bets
+  • Sorting sport list into most popular sport
+    - Dependent on country will determine list order
+      i.e. India prefers Cricket over Football
+  • Sorting teams in the result list in order of preferred teams
+  • Include:
+    - International Teams:
+      • England - Cricket, Football, Rugby etc.
+      • United States - American Football
+    - World Cup
+    - Olympics
+
+Changes for Official Demo:
+  • Add betfair logo - Link to placing bets
+  • Add sport image next to title - DONE
+  • Add FAQs - help explain everything (Numbers, what is value betting) - HALF DONE
+  • Statistics could be displayed visually (graphs etc.) - NEED COMPLETING
+  • Odds need to be a little bolder (accessibility) - DONE
+
+
+  • System could be proof of concept for final report if not completed.
+    - Doesn't have to be market ready
+  • Technical and strategic thinking
+
+  • Background testing
+    - Find out what methods are best to produce best Probability
+      • Goals, Corners, Cards, Players injured, Previous match-ups
+
+
+
+
+NOTES FROM DEMO (14th Feb)
+
+• The main purpose:
+  - Retrieve the odds from API, process it, and display them on the application
+  - Most of this will be proof of concept, however, try and get as much done as possible
+
+• Add some more information to each li result to display what the sport is
+  and what time it is on
+
+• Possibly change the result list to reduce scrolling and make it 4 items for each chunk
+
+• Use a hover effect for help image, instead of separate text - CSS3
+
+• Add a disclaimer about GambleAware and the risk of betting
+  - related to "£10 will win £22"
+  - this will also drive the users to gamble a little more
+  - Mention this in the report
+
+• Adapt to wearables i.e. watch
+  - run in simulator and gather results for report
+    • include an appendix with the result of the emulator along with the code snippet
+  - Possibly in version 2.0 of artefact
+
+• Ask Betfair to use their live access key and mention its only for University
+
+• Make sure to ask Alex and Ann for tips on how to improve project (either report or artefact)
+
+• To achieve a higher mark, discuss new ways to look at things and solve problems
+  - methodology, look at how I adapted multiple methodologies to create the ideal one for my project
+  - Discuss this in the report to achieve a much higher mark
