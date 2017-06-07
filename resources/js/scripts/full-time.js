@@ -46,7 +46,7 @@ function formCal() {
       homeLose += 1;
     }
   }
-  
+
   // For Loop for Away Form
   for (var i = 0; i < awayTeam.Form.length; i++) {
     if (awayTeam.Form[i] === 'W') {
@@ -85,7 +85,7 @@ function kellyCriterion(homeProb, drawProb, awayProb) {
   setElements(highestValue);
 }
 
-// Set elements
+// Set elements using DOM manipulation
 function setElements(value) {
   var fixtureText = document.getElementsByClassName('fixture-text')[0];
   var oddsText = document.getElementsByClassName('odds-text')[0];
